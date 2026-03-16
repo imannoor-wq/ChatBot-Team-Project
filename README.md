@@ -1,8 +1,34 @@
-# Projecte XatBot - Grup de Treball
+# 🤖 Projecte ChatBot: [CHAT-BOT E6]
 
-## Justificació de l'Entorn
-L'ús de GitHub Classroom en aquest projecte és essencial per garantir la **traçabilitat** i la **qualitat del programari**. Aquesta eina ens permet optimitzar el treball en equip, mantenir un historial clar de versions i assegurar que el flux de treball entre Google Colab i GitHub sigui eficient i professional.
+## 📝 Justificació i Reflexió sobre l'ús de la IA
+Aquest projecte ha estat desenvolupat utilitzant la **IA com a Copilot**. No ens hem limitat a copiar codi; hem seguit un procés crític:
+* **Iteració:** Hem refinat els prompts per obtenir solucions òptimes.
+* **Supervisió:** Cada línia de codi generada ha estat revisada, comentada i adaptada a les nostres necessitats de seguretat.
+* **Escalabilitat:** La documentació (README/CHANGELOG) s'ha dissenyat per facilitar el manteniment futur del projecte.
 
-## Configuració de l'Entorn
-- **Google Colab:** Vinculat directament amb aquest repositori.
-- **Seguretat:** La clau API s'ha gestionat mitjançant Secrets per evitar filtracions al codi font.
+---
+
+## 🛠️ Estructura del Projecte
+* `src/`: Codi font del Chatbot.
+* `docs/`: Evidències de les iteracions amb la IA (Screenshots i Prompts).
+* `Changelog.md`: Registre cronològic de versions i millores.
+* `CONTRIBUTING.md`: Normes de col·laboració de l'equip.
+
+---
+
+## 🚀 Com executar el projecte
+1. Obre el fitxer principal a **Google Colab**.
+2. Configura la teva clau API a `google.colab.userdata`.
+3. Executa totes les cel·les per iniciar el bot.
+
+---
+
+## 📊 Evidències de Treball (Pro+)
+Podeu trobar les captures de pantalla del procés de "prompt engineering" i la resolució de problemes complexos a la carpeta `/docs`. Hem demostrat la capacitat d'explicar cada bloc de codi integrat.
+
+---
+
+## 👥 Equip
+* **[IMAN NOOR]** - 
+* **[MIQUEL MARTIN]** - 
+* **[SERGI VILLANUEVA]** - 
