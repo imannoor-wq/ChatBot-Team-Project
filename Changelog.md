@@ -1,19 +1,14 @@
-# 📜 Registre de Canvis (Changelog)
+# Registre de Canvis Col·laboratiu (CHANGELOG)
 
-[cite_start]Tots els canvis notables en aquest projecte es documenten aquí seguint l'estàndard *Keep a Changelog*[cite: 246, 276].
+Tots els canvis realitzats pels integrants del grup estan registrats i ordenats cronològicament a continuació.
 
-## [1.1.0] - 2026-03-16
-### 🔄 Pivot de Projecte (Canvi Major)
-* [cite_start]**Reorientació:** El bot ha passat de ser un entrenador genèric a l'**Assistent Oficial de la LAN Party**[cite: 259, 273].
-* [cite_start]**Nova Identitat:** Configuració de *System Instructions* per a un perfil SMX (Sistemes Microinformàtics i Xarxes)[cite: 260].
+## [1.0.0] - 2026-05-22
+### Afegit (Disseny Inicial del Grup)
+* **Canvi de Rol Absolut:** Es descarta qualsevol codi previ i es configura el context cap a un assistent virtual d'una Biblioteca Eco-Digital.
+* **Instruccions de Control:** S'afegeix un llistat de dades tancades: ubicació a Can Font, prohibició total de paper per normativa de residu zero i suport Wi-Fi DHCP.
 
-### ✨ Afegit
-* [cite_start]**Implementació de l'API:** Migració a la llibreria `google-genai` per a una gestió de xat més robusta[cite: 239, 265].
-* [cite_start]**Documentació Professional:** Creació dels fitxers `CONTRIBUTING.md` i millora del `README.md` amb justificació de l'ús de la IA[cite: 252, 269].
+### Seguretat Aplicada
+* **Protecció del Repositori:** Implementació obligatòria del sistema de secrets de Google Colab a totes les línies de codi de l'equip per evitar filtracions públiques de claus API.
 
-### 🔒 Seguretat
-* [cite_start]**Protecció de Claus:** Integració total de `userdata.get` per evitar l'exposició de l'API Key al codi font[cite: 254, 266].
-
-## [0.1.0] - 2026-03-14
-### 🏗️ Inicialització
-* [cite_start]Creació del repositori a GitHub Classroom i connexió inicial amb Google Colab[cite: 249, 250].
+### Millores Tècniques
+* **Actualització de Programari:** L'equip ha migrat l'estructura cap a la nova llibreria nativa de Google `google-genai`.
